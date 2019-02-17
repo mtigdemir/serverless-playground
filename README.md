@@ -4,7 +4,7 @@ Serverless Examples
 ### Hellow World Template
 
 ```
-serverless create --template aws-nodejs --path aws-nodejs
+serverless create --template hello-world --path hello-world
 ```
 
 ### AWS Node JS Template
